@@ -1,6 +1,6 @@
 # n26-coding-challenge
 
-## Run Applicaiton
+## Run Application
 ```
 mvn spring-boot:run
 ```
